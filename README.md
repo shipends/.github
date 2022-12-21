@@ -1,7 +1,7 @@
 <!-- PROJECT HEADER -->
 
 <div align="center">
-  <img src="images/logo.png" alt="logo" width="20%">
+  <img src="./images/logo.png" alt="logo" width="20%">
   <a href="https://shipends.co/">
     <h1><b>Shipends - Learn Web3 Tools @ Lightspeed ⚡</b></h1>
   </a>
@@ -23,7 +23,7 @@
 <!-- INTRO -->
 
 <div align="center">
-  <img src="images/idea.png" alt="idea" width="100%">
+  <img src="./images/idea.png" alt="idea" width="100%">
   <h2><i><b>Built @ Buildspace's Nights & Weekends - Season 2</b></i></h2>
 </div>
 
