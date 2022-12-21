@@ -1,7 +1,7 @@
 <!-- PROJECT HEADER -->
 
 <div align="center">
-  <img src="./images/logo.png" alt="logo" width="20%">
+  <img src="https://i.imgur.com/79bWXvt.png" alt="logo" width="20%">
   <a href="https://shipends.co/">
     <h1><b>Shipends - Learn Web3 Tools @ Lightspeed ⚡</b></h1>
   </a>
@@ -23,7 +23,7 @@
 <!-- INTRO -->
 
 <div align="center">
-  <img src="./images/idea.png" alt="idea" width="100%">
+  <img src="https://i.imgur.com/Xu8p9NA.png" alt="idea" width="100%">
   <h2><i><b>Built @ Buildspace's Nights & Weekends - Season 2</b></i></h2>
 </div>
 
@@ -45,6 +45,15 @@
 
 ## Changelog 📈
 
--   **21.12.2022** -- Shipends goes live @ **[shipends.co](http://localhost:3000/)**
+-   **21.12.2022** -- Shipends goes live @ **[shipends.co](https://shipends.co/)**
 
 <!-- CHANGELOG -->
+
+<!-- FOOTER -->
+
+<div align="center">
+  <img src="https://i.imgur.com/WXIZUdJ.png" alt="banner" width="100%">
+  <h2><i><b>"See yaa in the sea, cap'n. 🌊"</b></i></h2>
+</div>
+
+<!-- FOOTER -->
