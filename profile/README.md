@@ -46,6 +46,7 @@
 ## Changelog 📈
 
 -   **21.12.2022** -- Shipends goes live @ **[shipends.co](https://shipends.co/)**
+-   **02.01.2023** -- Ships Added (RainbowKit + Wagmi + Push Protocol + Hardhat)\*\*
 
 <!-- CHANGELOG -->
 
